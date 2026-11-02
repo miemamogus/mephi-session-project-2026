@@ -1,0 +1,20 @@
+uid=5501(user1) gid=1001(students) группы=1001(students),1002(developers)
+uid=5502(user2) gid=5502(user2) группы=5502(user2),1002(developers)
+uid=5503(user3) gid=5503(user3) группы=5503(user3),1002(developers)
+uid=5504(curator1) gid=4444(curators) группы=4444(curators)
+uid=5505(curator2) gid=4444(curators) группы=4444(curators)
+PASS developer user1 /data/mephi-2026/test-user1
+PASS developer user1 /data/mephi-2026/test-user2
+PASS developer user1 /data/mephi-2026/test-user3
+PASS developer user2 /data/mephi-2026/test-user1
+PASS developer user2 /data/mephi-2026/test-user2
+PASS developer user2 /data/mephi-2026/test-user3
+PASS developer user3 /data/mephi-2026/test-user1
+PASS developer user3 /data/mephi-2026/test-user2
+PASS developer user3 /data/mephi-2026/test-user3
+PASS curator curator1 /data/mephi-2026/test-user1
+PASS curator curator1 /data/mephi-2026/test-user2
+PASS curator curator1 /data/mephi-2026/test-user3
+PASS curator curator2 /data/mephi-2026/test-user1
+PASS curator curator2 /data/mephi-2026/test-user2
+PASS curator curator2 /data/mephi-2026/test-user3

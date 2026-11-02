@@ -1,0 +1,18 @@
+nested
+shared
+getfacl: Removing leading '/' from absolute path names
+# file: data/mephi-2026/nested
+# owner: user3
+# group: developers
+# flags: -s-
+user::rwx
+group::rwx
+group:curators:r-x
+mask::rwx
+other::---
+default:user::rwx
+default:group::rwx
+default:group:curators:r-x
+default:mask::rwx
+default:other::---
+

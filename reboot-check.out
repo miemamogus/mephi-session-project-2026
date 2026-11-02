@@ -1,0 +1,21 @@
+ Static hostname: mephi-2026.domain.local
+       Icon name: computer-vm
+         Chassis: vm 🖴
+      Machine ID: d161da8c9ba24658bcc3105f4a1c904c
+         Boot ID: 9b8acab471a54fb7b2ef8c529e91a37b
+  Virtualization: vmware
+Operating System: RED OS 8.0.3 (Standard Server)
+     CPE OS Name: cpe:/o:redos:redos:8
+          Kernel: Linux 6.12.101-1.red80.x86_64
+    Architecture: x86-64
+ Hardware Vendor: VMware, Inc.
+  Hardware Model: VMware Virtual Platform
+Firmware Version: 6.00
+   Firmware Date: Tue 2026-02-17
+multi-user.target
+enabled
+active
+Enforcing
+TARGET     SOURCE    FSTYPE OPTIONS
+/mephi-web /dev/sdb1 ext4   rw,relatime,seclabel
+Hello from Student: М265894

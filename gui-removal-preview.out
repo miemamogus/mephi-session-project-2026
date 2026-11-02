@@ -1,0 +1,43 @@
+Зависимости разрешены.
+=======================================================================================================
+ Пакет                                    Архитектура
+                                                  Версия                               Репозиторий
+                                                                                                 Размер
+=======================================================================================================
+Удаление:
+ gdm                                      x86_64  1:48.0-3.red80                       @anaconda  5.4 M
+ gnome-shell                              x86_64  48.8-3.red80                         @updates    15 M
+ xorg-x11-server-Xorg                     x86_64  21.1.24-2.red80                      @updates   3.6 M
+Удаление зависимых пакетов:
+ branding-gnome-redos                     noarch  44.0-11.red80                        @anaconda  437  
+ gnome-browser-connector                  x86_64  42.1-1.red80                         @anaconda  123 k
+ gnome-session-xsession                   x86_64  48.0-3.red80                         @anaconda   16 k
+ gnome-shell-extension-appindicator       noarch  1:60-1.red80                         @anaconda  250 k
+ gnome-shell-extension-common             noarch  48.3-2.red80                         @anaconda  604 k
+ gnome-shell-extension-dash-to-dock       noarch  102-1.red80                          @anaconda  1.1 M
+ gnome-shell-extension-desktop-icons-ng   noarch  100.9-1.red80                        @anaconda  2.2 M
+ gparted                                  x86_64  1.7.0-1.red80                        @anaconda  8.9 M
+ gschemas-gdm-redos                       noarch  44.0-2.red80                         @anaconda  118  
+ nautilus-extension-extras                x86_64  1.2.1-3.red80                        @anaconda  404 k
+ nautilus-extension-send-to-desktop       x86_64  1.2.1-3.red80                        @anaconda  296 k
+ nautilus-extensions-redsoft              x86_64  1.2.1-3.red80                        @anaconda    0  
+ system-config-printer                    x86_64  1.5.18-2.red80                       @anaconda  1.8 M
+ xorg-x11-drv-amdgpu                      x86_64  25.0.0-1.red80                       @anaconda  167 k
+ xorg-x11-drv-ati                         x86_64  22.0.0-1.red80                       @anaconda  504 k
+ xorg-x11-drv-evdev                       x86_64  2.11.0-1.red80                       @anaconda   81 k
+ xorg-x11-drv-fbdev                       x86_64  0.5.0-12.red80                       @anaconda   34 k
+ xorg-x11-drv-intel                       x86_64  2.99.917^20240506gitce811e7-63.red80 @anaconda  2.5 M
+ xorg-x11-drv-libinput                    x86_64  1.5.0-4.red80                        @anaconda  106 k
+ xorg-x11-drv-nouveau                     x86_64  1:1.0.17-7.red80                     @anaconda  218 k
+ xorg-x11-drv-openchrome                  x86_64  0.6.604^20230328git857d892-2.red80   @anaconda  273 k
+ xorg-x11-drv-qxl                         x86_64  0.1.6-3.red80                        @anaconda  170 k
+ xorg-x11-drv-vesa                        x86_64  2.6.0-2.red80                        @anaconda   34 k
+ xorg-x11-drv-vmware                      x86_64  13.4.0-3.red80                       @anaconda  176 k
+ xorg-x11-drv-wacom                       x86_64  1.2.3-1.red80                        @anaconda  1.2 M
+
+Результат транзакции
+=======================================================================================================
+Удаление  28 Пакетов
+
+Освобожденное место: 45 M
+Операция прервана.

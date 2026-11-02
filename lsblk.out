@@ -1,0 +1,10 @@
+NAME    SIZE TYPE FSTYPE LABEL     MOUNTPOINTS
+sda      40G disk                  
+├─sda1    1M part                  
+├─sda2    1G part ext4             /boot
+├─sda3  3,9G part swap             [SWAP]
+└─sda4 35,1G part ext4             /
+sdb      10G disk                  
+└─sdb1   10G part ext4   MEPHI_WEB /mephi-web
+sr0    1024M rom                   
+zram0   3,8G disk                  [SWAP]

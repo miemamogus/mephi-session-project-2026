@@ -1,0 +1,14 @@
+user1
+shared
+sh: строка 1: /data/mephi-2026/test-user1: Отказано в доступе
+cat: /data/mephi-2026/test-user1: Отказано в доступе
+getfacl: Removing leading '/' from absolute path names
+# file: data/mephi-2026/test-user1
+# owner: user1
+# group: developers
+user::rw-
+group::rwx	#effective:rw-
+group:curators:r-x	#effective:r--
+mask::rw-
+other::---
+

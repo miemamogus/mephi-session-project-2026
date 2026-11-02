@@ -1,0 +1,9 @@
+Иденти | Командная строка          | Дата и время     | Действия       | Изменен
+--------------------------------------------------------------------------------
+     7 | remove -y --noautoremove  | 2026-11-02 23:14 | Removed        |   28 E<
+     6 | install -y nginx libcap-n | 2026-11-02 23:13 | Install        |    2 > 
+     5 | upgrade -y                | 2026-11-02 23:05 | I, O, U        |  403 EE
+     4 | install -y gnome-screensh | 2026-10-31 20:24 | Install        |    1   
+     3 | autoremove -y --setopt=me | 2026-10-31 20:01 | Removed        |    1  <
+     2 | remove -y --setopt=metada | 2026-10-31 19:59 | Removed        |    4 >E
+     1 |                           | 2026-10-31 19:46 | Install        | 2086 EE
